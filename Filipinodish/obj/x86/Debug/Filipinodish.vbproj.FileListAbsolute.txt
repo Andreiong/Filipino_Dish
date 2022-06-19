@@ -1,0 +1,13 @@
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\bin\Debug\Filipinodish.exe
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\bin\Debug\Filipinodish.pdb
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\bin\Debug\Filipinodish.xml
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.Resources.resources
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.vbproj.GenerateResource.Cache
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.exe
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.xml
+c:\users\luis\documents\visual studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.pdb
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.Main.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.Productlist.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.Product.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.Category.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Filipinodish\Filipinodish\obj\x86\Debug\Filipinodish.vbprojResolveAssemblyReference.cache
